@@ -1,0 +1,32 @@
+body{
+    margin: 0;
+    background-image: url(./transferir.jpg);
+    background-size: cover;
+}
+
+
+#inicio{
+    position:absolute;
+    background: none;
+    left:50%;
+    top:50%;
+    transform:translate(-50%, -50%);
+}
+
+
+
+#inicio button{
+    border: none;
+    cursor: pointer;
+    border-radius: 10px;
+    background: none;
+    font-size: 10px;
+    padding: 10px;
+    width: 24%;
+    display:none;
+
+}
+#inicio img{
+    height: 50%;
+ 
+}
